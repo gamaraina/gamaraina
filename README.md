@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsh Raina</h1>
 <h3 align="center">A passionate full stack developer . Interested in Problem solving ,Data structres and algorithms, and doing full stack projects.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamaraina&label=Profile%20views&color=0e75b6&style=flat" alt="gamaraina" /> </p>
 
 - 📫 How to reach me **gamaraina@gmail.com**
